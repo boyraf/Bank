@@ -8,7 +8,7 @@ import Addform from './components/AddForm';
 function App() {
   return (
     <div>
-      <h1 id="vin">Mzee Budget</h1>
+      <h1 id="vin">MTransactions!!</h1>
       <Addform />
       <TransactionList />
       <TransactionTable/>
